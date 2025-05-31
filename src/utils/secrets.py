@@ -1,0 +1,1 @@
+PROJECT_ROOT = "C:/Users/Jopa/Desktop/FER  Materijali/AIBG/Topic/kod/AIBG-gradient_clippers"
